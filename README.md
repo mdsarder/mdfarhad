@@ -56,8 +56,6 @@
 - Used Graph Neural Networks for partition prediction  
 - Evaluated latency, CPU/GPU usage, and network delay  
 
-🔗 Repo: https://github.com/YOUR_USERNAME/gnn-edge-partitioning  
-
 ---
 ### 🛠️ Technologies & Tools
 
@@ -71,9 +69,9 @@
 ---
 ### 📊 GitHub Stats
 
-![Md's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsarder&show_icons=true&theme=tokyonight)
+![Md's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfarhad&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsarder&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhad&layout=compact&theme=tokyonight)
 
 ---
 
