@@ -1,4 +1,3 @@
-# mdfarhad
 # 👋 Hi, I'm Farhad  
 
 🎓 Data Analyst | 📊 Python | 🗄️ SQL | 📈 Power BI  
