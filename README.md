@@ -69,12 +69,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 
 ---
-
 ### 📊 GitHub Stats
 
-![Md's GitHub stats](https://github-readme-stats.vercel.app/api?username=adibamasud&show_icons=true&theme=tokyonight)
+![Md's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsarder&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibamasud&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsarder&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Contact Me  
