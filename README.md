@@ -42,7 +42,6 @@
 - Built interactive dashboard using Power BI  
 - Identified sales trends and key insights  
 
-#🔗 Repo: https://github.com/YOUR_USERNAME/customer-sales-analysis  
 
 ---
 
@@ -50,7 +49,6 @@
 - Analyzed content trends by genre and country  
 - Created visualizations using Matplotlib  
 
-🔗 Repo: https://github.com/YOUR_USERNAME/netflix-analysis  
 
 ---
 
@@ -62,27 +60,39 @@
 🔗 Repo: https://github.com/YOUR_USERNAME/gnn-edge-partitioning  
 
 ---
+### 🛠️ Technologies & Tools
 
-## 📈 GitHub Stats  
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch)
+![Bash](https://img.shields.io/badge/-Bash-000?style=flat&logo=gnu-bash)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 
-![Farhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+---
 
+### 📊 GitHub Stats
+
+![Md's GitHub stats](https://github-readme-stats.vercel.app/api?username=adibamasud&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibamasud&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Contact Me  
 
-- 📧 Email: your_email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 🌐 Portfolio: https://yourportfolio.com  
+- 📧 Email: msarder@student.alamo.edu  
+- 💼 LinkedIn: https://www.linkedin.com/in/farhadsarder/ 
 
 ---
 
 ## 🎯 Goals  
 
 - 🚀 Become a professional Data Analyst  
-- 🔬 Publish research in Edge AI  
+- 🔬 Publish research in ML
 - 💼 Work in data-driven or AI-based roles  
 
+
 ---
+
 
 ⭐ If you like my work, feel free to star my repositories!
